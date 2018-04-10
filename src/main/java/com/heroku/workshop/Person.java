@@ -3,7 +3,7 @@ package com.heroku.workshop;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;i
+import javax.persistence.GenerationType;
 
 @Entity
 
