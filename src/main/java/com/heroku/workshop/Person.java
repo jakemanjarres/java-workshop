@@ -1,9 +1,11 @@
 package com.heroku.workshop;
 
+import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.GenerationType;i
+
+@Entity
 
 public class Person {
     @Id
